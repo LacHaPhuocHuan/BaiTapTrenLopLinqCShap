@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiLuyenTapLINQ_PhanPhuocHuan_21115053120315", "BaiLuyenTapLINQ_PhanPhuocHuan_21115053120315\BaiLuyenTapLINQ_PhanPhuocHuan_21115053120315.csproj", "{E93D42B8-FF84-401E-A645-A23853B89117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E93D42B8-FF84-401E-A645-A23853B89117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93D42B8-FF84-401E-A645-A23853B89117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93D42B8-FF84-401E-A645-A23853B89117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93D42B8-FF84-401E-A645-A23853B89117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97183447-223F-4051-8769-FB7DF3A8ED36}
+	EndGlobalSection
+EndGlobal
