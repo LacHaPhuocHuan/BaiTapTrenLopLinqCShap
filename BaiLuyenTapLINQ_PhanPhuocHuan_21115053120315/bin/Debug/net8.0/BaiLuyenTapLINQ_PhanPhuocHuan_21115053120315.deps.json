@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BaiLuyenTapLINQ_PhanPhuocHuan_21115053120315/1.0.0": {
+        "runtime": {
+          "BaiLuyenTapLINQ_PhanPhuocHuan_21115053120315.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiLuyenTapLINQ_PhanPhuocHuan_21115053120315/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

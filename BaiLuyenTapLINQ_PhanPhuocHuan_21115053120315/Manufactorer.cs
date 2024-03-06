@@ -10,5 +10,11 @@ namespace BaiLuyenTapLINQ_PhanPhuocHuan_21115053120315
     {
         public int id {  get; set; }
         public string name { get; set; }
+        public Manufactorer(int id, string name)
+        {
+            this.id = id;
+                this.name = name;
+
+        }
     }
 }
